@@ -1,3 +1,5 @@
+package binarySearch;
+
 /**
  * What is Binary Search Algorithm
  * Binary Search is an algorithm for finding the position of a target value within a sorted array

@@ -1,3 +1,5 @@
+package TwoDimentionalArray;
+
 /**
  * Each element in the array can be accessed directly by
  * A[0][0],
